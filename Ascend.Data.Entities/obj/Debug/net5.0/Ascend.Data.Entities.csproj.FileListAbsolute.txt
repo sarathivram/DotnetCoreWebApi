@@ -1,0 +1,12 @@
+C:\MyData\AppSource\Ascend\AscendOnCloudApi\Ascend.Data.Entities\bin\Debug\net5.0\Ascend.Data.Entities.deps.json
+C:\MyData\AppSource\Ascend\AscendOnCloudApi\Ascend.Data.Entities\bin\Debug\net5.0\Ascend.Data.Entities.dll
+C:\MyData\AppSource\Ascend\AscendOnCloudApi\Ascend.Data.Entities\bin\Debug\net5.0\ref\Ascend.Data.Entities.dll
+C:\MyData\AppSource\Ascend\AscendOnCloudApi\Ascend.Data.Entities\bin\Debug\net5.0\Ascend.Data.Entities.pdb
+C:\MyData\AppSource\Ascend\AscendOnCloudApi\Ascend.Data.Entities\obj\Debug\net5.0\Ascend.Data.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyData\AppSource\Ascend\AscendOnCloudApi\Ascend.Data.Entities\obj\Debug\net5.0\Ascend.Data.Entities.AssemblyInfoInputs.cache
+C:\MyData\AppSource\Ascend\AscendOnCloudApi\Ascend.Data.Entities\obj\Debug\net5.0\Ascend.Data.Entities.AssemblyInfo.cs
+C:\MyData\AppSource\Ascend\AscendOnCloudApi\Ascend.Data.Entities\obj\Debug\net5.0\Ascend.Data.Entities.csproj.CoreCompileInputs.cache
+C:\MyData\AppSource\Ascend\AscendOnCloudApi\Ascend.Data.Entities\obj\Debug\net5.0\Ascend.Data.Entities.dll
+C:\MyData\AppSource\Ascend\AscendOnCloudApi\Ascend.Data.Entities\obj\Debug\net5.0\ref\Ascend.Data.Entities.dll
+C:\MyData\AppSource\Ascend\AscendOnCloudApi\Ascend.Data.Entities\obj\Debug\net5.0\Ascend.Data.Entities.pdb
+C:\MyData\AppSource\Ascend\AscendOnCloudApi\Ascend.Data.Entities\obj\Debug\net5.0\Ascend.Data.Entities.csprojAssemblyReference.cache

@@ -1,0 +1,15 @@
+C:\MyData\AppSource\Ascend\AscendOnCloudApi\Ascend.DataAccess\bin\Debug\net5.0\Ascend.DataAccess.deps.json
+C:\MyData\AppSource\Ascend\AscendOnCloudApi\Ascend.DataAccess\bin\Debug\net5.0\Ascend.DataAccess.dll
+C:\MyData\AppSource\Ascend\AscendOnCloudApi\Ascend.DataAccess\bin\Debug\net5.0\ref\Ascend.DataAccess.dll
+C:\MyData\AppSource\Ascend\AscendOnCloudApi\Ascend.DataAccess\bin\Debug\net5.0\Ascend.DataAccess.pdb
+C:\MyData\AppSource\Ascend\AscendOnCloudApi\Ascend.DataAccess\bin\Debug\net5.0\Ascend.Data.Entities.dll
+C:\MyData\AppSource\Ascend\AscendOnCloudApi\Ascend.DataAccess\bin\Debug\net5.0\Ascend.Data.Entities.pdb
+C:\MyData\AppSource\Ascend\AscendOnCloudApi\Ascend.DataAccess\obj\Debug\net5.0\Ascend.DataAccess.csprojAssemblyReference.cache
+C:\MyData\AppSource\Ascend\AscendOnCloudApi\Ascend.DataAccess\obj\Debug\net5.0\Ascend.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyData\AppSource\Ascend\AscendOnCloudApi\Ascend.DataAccess\obj\Debug\net5.0\Ascend.DataAccess.AssemblyInfoInputs.cache
+C:\MyData\AppSource\Ascend\AscendOnCloudApi\Ascend.DataAccess\obj\Debug\net5.0\Ascend.DataAccess.AssemblyInfo.cs
+C:\MyData\AppSource\Ascend\AscendOnCloudApi\Ascend.DataAccess\obj\Debug\net5.0\Ascend.DataAccess.csproj.CoreCompileInputs.cache
+C:\MyData\AppSource\Ascend\AscendOnCloudApi\Ascend.DataAccess\obj\Debug\net5.0\Ascend.DataAccess.csproj.CopyComplete
+C:\MyData\AppSource\Ascend\AscendOnCloudApi\Ascend.DataAccess\obj\Debug\net5.0\Ascend.DataAccess.dll
+C:\MyData\AppSource\Ascend\AscendOnCloudApi\Ascend.DataAccess\obj\Debug\net5.0\ref\Ascend.DataAccess.dll
+C:\MyData\AppSource\Ascend\AscendOnCloudApi\Ascend.DataAccess\obj\Debug\net5.0\Ascend.DataAccess.pdb

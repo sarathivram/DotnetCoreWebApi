@@ -1,0 +1,5 @@
+C:\MyData\AppSource\Ascend\AscendOnCloudApi\Ascend.Common\obj\Debug\net5.0\Ascend.Common.csprojAssemblyReference.cache
+C:\MyData\AppSource\Ascend\AscendOnCloudApi\Ascend.Common\obj\Debug\net5.0\Ascend.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyData\AppSource\Ascend\AscendOnCloudApi\Ascend.Common\obj\Debug\net5.0\Ascend.Common.AssemblyInfoInputs.cache
+C:\MyData\AppSource\Ascend\AscendOnCloudApi\Ascend.Common\obj\Debug\net5.0\Ascend.Common.AssemblyInfo.cs
+C:\MyData\AppSource\Ascend\AscendOnCloudApi\Ascend.Common\obj\Debug\net5.0\Ascend.Common.csproj.CoreCompileInputs.cache
